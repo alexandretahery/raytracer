@@ -1,0 +1,4 @@
+plane:-200:0:25:0:blue
+sphere:-150:25:20:10:red
+sphere:-150:250:10:10:red
+cylinder:-200:100:-25:10:white
